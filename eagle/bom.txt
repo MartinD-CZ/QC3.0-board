@@ -1,0 +1,18 @@
+Part Value                   Device                  Package             Description                                             
+C1   1u                      C-EUC1206               C1206               CAPACITOR, European symbol                                                           
+C2   100n                    C-EUC1206               C1206               CAPACITOR, European symbol                                                           
+C3   10u/16V                 C-EUC1206               C1206               CAPACITOR, European symbol                                                          
+C4   10u/16V                 C-EUC1206               C1206               CAPACITOR, European symbol                                                           
+C5   22u/16V                 C-EUC1206               C1206               CAPACITOR, European symbol                                                           
+C6   22u/16V                 C-EUC1206               C1206               CAPACITOR, European symbol                                                           
+F1   0R                      PPTC_HALF-AMP           1206                Resettable Fuse PPTC                                  
+F2   0R                      PPTC_HALF-AMP           1206                Resettable Fuse PPTC                                    
+IN   5MM_SCREWTERMINAL_LARGE 5MM_SCREWTERMINAL_LARGE SCREWTERMINAL-5MM-2                                                                                      
+L2   8u2                     DR73                    DR73                High Power Density, High Efficiency, Shielded Inductors           L                  
+OUT  USB_A_REVERSED          USB_A_REVERSED          USB-A-S-SILK-FEMALE                                                                                      
+R1   2k2                     R-EU_R1206              R1206               RESISTOR, European symbol                                                            
+R4   100k                    R-EU_R1206              R1206               RESISTOR, European symbol                                                            
+R5   100k                    R-EU_R1206              R1206               RESISTOR, European symbol                                                            
+R6   13k                     R-EU_R1206              R1206               RESISTOR, European symbol                                                            
+U1   FR9885                  FR9885                  SOT23-6                                                                                                  
+U2   IPT2601                 IPT2601                 SOT23-6                                                                                                  
