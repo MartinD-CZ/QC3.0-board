@@ -1,5 +1,5 @@
 # QC3.0 board
-*available on Tindie [here](https://www.tindie.com/products/martind/quick-charge-qc-30-buck-converter-board/)*
+*see the article [here](http://embedblog.eu/?p=504). Also available on [Tindie](https://www.tindie.com/products/martind/quick-charge-qc-30-buck-converter-board/)*
 ![A picture of the finished device](pic1.JPG)
 
 Board with a switching buck converter and a QC 3.0 class-A chip (it also supports FastCharge, DCP, and others).
